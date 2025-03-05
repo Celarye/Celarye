@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img height=200 align="center" alt="Celarye's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=celarye&theme=transparent&show_icons=true&include_all_commits=true&custom_title=Celarye's%20GitHub%20Stats">
+    <img height=200 align="center" alt="Celarye's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=celarye&theme=transparent&show_icons=true&custom_title=Celarye's%20GitHub%20Stats">
   </a>
   <a href="#">
     <img height=200 align="center" alt="Celarye's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celarye&theme=transparent&layout=compact&langs_count=8">
